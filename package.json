@@ -1,0 +1,14 @@
+{
+  "name": "nodeServer",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JFingert",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "~1.2.11"
+  }
+}
